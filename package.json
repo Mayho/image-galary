@@ -1,0 +1,31 @@
+{
+  "name": "image-gallery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mayho/image-gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayho/image-gallery/issues"
+  },
+  "homepage": "https://github.com/Mayho/image-gallery",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-animate": "^1.5.0",
+    "angular-aria": "^1.5.0",
+    "angular-material": "^1.0.5",
+    "angular-ui-router": "^0.2.18",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-stylus": "^2.3.0"
+  }
+}

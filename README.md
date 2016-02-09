@@ -1,1 +1,3 @@
-# image-galary
+# image-gallery
+
+```npm i && npm start```
